@@ -84,7 +84,7 @@ max_date = df['date'].max()
 
 # Make the SideBar in the Dashboard
 with st.sidebar:
-    st.image('https://github.com/rayhanpratama99/BikeShare_Data_Analytics/blob/main/dashboard/cb.jpg')
+    st.image('https://raw.githubusercontent.com/rayhanpratama99/BikeShare_Data_Analytics/main/dashboard/cb.jpg')
     st.sidebar.header('Date:')
     # Make the input start and end to choose which date data will show in the dashboard
     start_date, end_date = st.date_input(
