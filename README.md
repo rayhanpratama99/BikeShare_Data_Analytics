@@ -17,7 +17,7 @@ All information about the dataset are available at `Readme.txt` file.
 ## Get Started
 ### `BikeShare_Data_Analytics_Project.ipynb`
 1. Download this project
-2. Open Tthis project with your IDE
+2. Open this project with your IDE
 3. Create a new notebook
 4. Select `BikeShare_Data_Analytics_Project.ipynb`
 5. After connected, run all the code
