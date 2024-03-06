@@ -28,4 +28,4 @@ All information about the dataset are available at `Readme.txt` file.
 3. Open your IDE like VS Code than run the file from the terminal
 4. Run the code by writing `sreamlit run Dashboard.py`
 
-** Note: The dashboard also available at the streamlit cloud: 
+** Note: The dashboard also available at the streamlit cloud: https://bikesharedataanalytics-rayhanpratama.streamlit.app/ 
