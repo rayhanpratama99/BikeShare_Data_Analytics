@@ -1,1 +1,1 @@
-https://bikesharedataanalytics-rayhanpratama.streamlit.app/
+https://bikesharedataanalytics-rayhanarlistya.streamlit.app/
