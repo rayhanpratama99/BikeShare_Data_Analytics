@@ -38,4 +38,4 @@ cd dashboard
 streamlit run Dashboard.py
 ```
 
-** Note: The dashboard also available at the streamlit cloud: 
+** Note: The dashboard also available at the streamlit cloud: https://bikesharedataanalytics-rayhanarlistya.streamlit.app/
