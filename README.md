@@ -17,15 +17,25 @@ All information about the dataset are available at `Readme.txt` file.
 ## Get Started
 ### `BikeShare_Data_Analytics_Project.ipynb`
 1. Download this project
-2. Open this project with your IDE
+2. Open Tthis project with your IDE
 3. Create a new notebook
 4. Select `BikeShare_Data_Analytics_Project.ipynb`
 5. After connected, run all the code
 
 ### `Dashboard.py`
 1. Download this project
-2. Install streamlit and all libraries that needed(the libraries list shown in the `requirements.txt`) in your terminal.
-3. Open your IDE like VS Code than run the file from the terminal
-4. Run the code by writing `sreamlit run Dashboard.py`
+2. Install streamlit and all libraries that needed(the libraries list shown in the `requirements.txt`) in your terminal/command prompt/conda prompt by navigating to this project and run this command:
 
-** Note: The dashboard also available at the streamlit cloud: https://bikesharedataanalytics-rayhanpratama.streamlit.app/ 
+```bash
+pip install -r requirements.txt
+```
+
+3. Open your IDE like VS Code than run the file from the terminal
+4. Run the code by writing `streamlit run Dashboard.py`
+
+```bash
+cd dashboard
+streamlit run Dashboard.py
+```
+
+** Note: The dashboard also available at the streamlit cloud: 
